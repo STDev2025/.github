@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## Descripción del repositorio
+Este repositorio sirve como plantilla mínima para personalizar la página de perfil de GitHub.
+Puedes editar este README para presentar a tu organización o perfil personal y compartir enlaces de interés.
+
 <!--
 
 **Here are some ideas to get you started:**
